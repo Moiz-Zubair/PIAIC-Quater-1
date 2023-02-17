@@ -1,0 +1,1 @@
+//added comments to task1.ts and task2.ts
