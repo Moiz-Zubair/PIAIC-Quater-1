@@ -1,0 +1,12 @@
+{
+  "name": "piaic-quater-1",
+  "version": "1.0.0",
+  "description": "This Repo will contain all the assignment solutions for the Quater 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
